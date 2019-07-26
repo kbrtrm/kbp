@@ -1,15 +1,15 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+title: Homogenization vs. Differentiation
+date: "2019-06-12"
 template: "post"
 draft: false
 slug: "/posts/humane-typography-in-the-digital-age/"
-category: "Typography"
+category: "Ideas"
 tags:
   - "Design"
   - "Typography"
   - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+description: "How does being aware of sameness and difference help us make better product decisions?"
 ---
 
 - [The first transition](#the-first-transition)

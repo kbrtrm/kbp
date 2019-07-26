@@ -14,15 +14,14 @@ type Props = {
 
 const Author = ({ author, isIndex }: Props) => (
   <div className={styles['author']}>
-    <Link to="/">
+    {/* <Link to="/">
       <img
-        src={withPrefix(author.photo)}
+        src={author.photo}
         className={styles['author__photo']}
-        width="75"
-        height="75"
+        width="120"
         alt={author.name}
       />
-    </Link>
+    </Link> */}
 
     { isIndex ? (
       <h1 className={styles['author__title']}>

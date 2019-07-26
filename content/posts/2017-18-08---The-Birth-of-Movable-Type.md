@@ -1,15 +1,15 @@
 ---
-title: "Johannes Gutenberg: The Birth of Movable Type"
-date: "2017-08-18T22:12:03.284Z"
+title: UX Lessons from Formerly Incarcerated Men
+date: "2019-05-10"
 template: "post"
 draft: false
-slug: "/posts/the-birth-of-movable-type/"
-category: "Typography"
+slug: "/posts/formerly/"
+category: "Ideas"
 tags:
   - "Open source"
   - "Gatsby"
   - "Typography"
-description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
+description: "I'm part of a running club that includes people from all walks of life. In our group we have teachers, clergy, architects, students, formerly incarcerated men. On these runs, we talk—but my role as a volunteer is mostly just to listen."
 ---
 
 German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible.

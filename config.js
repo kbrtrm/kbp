@@ -2,30 +2,26 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  title: 'Kevin Bertram',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 10,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
-      label: 'Articles',
+      label: 'Work',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Kevin Bertram',
+    photo: '/hand.png',
+    bio: 'Human being being human.',
     contacts: {
       email: '#',
       telegram: '#',

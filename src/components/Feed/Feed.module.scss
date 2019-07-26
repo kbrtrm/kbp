@@ -10,6 +10,7 @@
     }
 
     &-title {
+      font-family: $typographic-font-family-heading;
       font-size: $typographic-base-font-size * 1.6875;
       @include line-height(1.5);
       @include margin-top(0);
@@ -38,8 +39,7 @@
       &-time {
         font-size: $typographic-small-font-size;
         color: $color-base;
-        font-weight: 600;
-        text-transform: uppercase;
+        font-weight: 400;
       }
 
       &-divider {
@@ -50,8 +50,7 @@
         &-link {
           font-size: $typographic-small-font-size;
           color: $color-secondary;
-          font-weight: 600;
-          text-transform: uppercase;
+          font-weight: 400;
 
           &:hover,
           &:focus {

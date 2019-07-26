@@ -7,6 +7,7 @@
   margin: 0 auto;
 
   &__title {
+    font-family: $typographic-font-family-heading;
     font-size: $typographic-base-font-size * 2;
     max-width: $layout-post-width;
     margin-left: auto;
@@ -30,7 +31,7 @@
 
         & p {
           max-width: $layout-post-width;
-          font-size: $typographic-base-font-size * 1.6817;
+          font-size: $typographic-base-font-size * 1.5;
           margin-top: 0;
           @include margin-bottom(1);
           @include line-height(1.5)
@@ -75,8 +76,8 @@
       @include margin-bottom(1.125);
 
       & p {
-        font-size: $typographic-base-font-size * 1.125;
-        @include line-height(1.125);
+        font-size: $typographic-base-font-size * 1.1;
+        @include line-height(1);
         @include margin-bottom(1.125)
       }
 

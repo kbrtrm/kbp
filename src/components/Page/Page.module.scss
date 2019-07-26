@@ -29,7 +29,7 @@
     lost-column: 7/12;
 
     &__inner {
-      padding: 30px 20px;
+      padding: 30px 10px;
     }
 
   }
@@ -41,7 +41,16 @@
     lost-column: 2/3;
 
     &__inner {
-      padding: 40px 35px;
+      padding: 40px 10px;
+    }
+
+    &__body {
+      > div {
+            display: grid;
+            grid-template-columns: 50% 50%;
+            grid-column-gap: 20px;
+            grid-row-gap: 20px;
+      } 
     }
 
   }

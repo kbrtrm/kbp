@@ -56,7 +56,8 @@ module.exports = {
               date: edge.node.frontmatter.date,
               url: site.siteMetadata.site_url + edge.node.fields.slug,
               guid: site.siteMetadata.site_url + edge.node.fields.slug,
-              custom_elements: [{ 'content:encoded': edge.node.html }]
+              custom_elements: [{ 'content:encoded': edge.node.html }],
+              thumb: edge.node.frontmatter.thumb
             }))
           ),
           query: `
@@ -78,6 +79,7 @@ module.exports = {
                         template
                         draft
                         description
+                        thumb
                       }
                     }
                   }
